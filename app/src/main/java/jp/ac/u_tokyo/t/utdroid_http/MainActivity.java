@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         /**
-         * バックグラウンドで別スレッドで）実行されるメインの処理
+         * バックグラウンドで（別スレッドで）実行されるメインの処理
          */
         @Override
         protected String doInBackground(String... params) {
